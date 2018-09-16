@@ -1,0 +1,44 @@
+Course: CPSC 121 - Computer Science I
+Credits: 3.00
+Description: Techniques of problem-solving and algorithmic development. An introduction to programming. Emphasis is on how to design, code, debug, and document programs using good programming style. 
+Semester(s): Fall and Spring.
+
+Course: CPSC 122 - Computer Science II
+Credits: 3.00
+Description: A continuation of CPSC 121. An examination of dynamic memory management and recursion; an introduction to basic data structures and algorithmic analysis. 
+Semester(s): Fall and Spring.
+Prerequisite(s): CPSC 121
+
+Course: CPSC 211 - Algorithmic Art
+Credits: 3.00
+Description: Algorithmic Art sits at the intersection of mathematics, programming, algorithms, and art. The primary goal of the course is to teach computational thinking to liberal arts students. Student motivation is achieved by presenting programming and math concepts in the context of the visual arts. The assignments use the programming environment called Processing which was developed specifically for visual artists. 
+Semester(s): Fall.
+
+Course: CPSC 212 - Computational Modeling
+Credits: 3.00
+Description: This course introduces students to the modeling process and computer simulations. It considers two major approaches: system dynamics models and agent-based models. A variety of software tools will be explored. Applications will be chosen from ecology, medicine, chemistry, biology, and others. 
+Semester(s): Spring.
+
+Course: CPSC 223 - Algorith &Abstract Data Struct
+Credits: 3.00 
+Description: Algorithm analysis using O-notation, sorting, heaps, balanced binary search trees, and hash tables. MATH 231 is a co-requisite or pre-requisite for this course. 
+Semester(s): Fall and Spring.
+Prerequisite(s): CPSC 122 MATH 231
+
+Course: CPSC 224 - Object-Ornt & Event Dr Prog
+Credits: 3.00 
+Description: Object-oriented topics like overloading, inheritance, and dynamic binding, memory management and event-driven programming. Introduction to object-oriented design. 
+Semester(s): Spring.
+Prerequisite(s): CPSC 122
+
+Course: CPSC 321 - Database Management Systems
+Credits: 3.00 
+Description: Introduction to database concepts. A study of data models, data normalization, relational algebra. Use of data definition and data manipulation languages including embedded SQL. File and index organization. 
+Semester(s): Fall.
+Prerequisite(s): CPSC 122
+
+Course: CPSC 326 - Organization of Program. Lang.
+Credits: 3.00
+Description: Examination of the structures and concepts of procedural, functional, and logic-based programming languages. 
+Semester(s): Spring.
+Prerequisite(s): CPSC 223
